@@ -18,13 +18,13 @@ Toolkit is used to map a `Cp` (C pointless) field to  `NASTRAN` `PLOAD4` Cards.
 
 `Cp` field in described initially in either :
 - `.avt` file format (11-columns ASCII file)
-- `.air`  (4-columns ASCII file)
+- `.air`  (5-columns ASCII file)
 - `.csv` (`.air` file in a  `.csv` format)
 
 The `.air` file is documented in this repo.
 
 The `.air` file description is :
 
-Column 1 | Column 2 | Column 3 | Column 4
---- | --- | --- | --- |
-x-coordinate | y-coordinate | z-coordinate | `Cp`
+Column 1 | Column 2 | Column 3 | Column 4 | Column 5
+--- | --- | --- | --- | --- |
+Topology (3 or 4) | x-coordinate | y-coordinate | z-coordinate | `Cp`
