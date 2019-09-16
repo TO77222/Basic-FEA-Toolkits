@@ -1,4 +1,4 @@
 air/csv file, EntitySet,loadcollector Name, loadcollector ID, Interpolation method , Tolerance , PLOAD sign, Verification
-9001000.air,Single,9001000,9001094,proximity,0.0,false,true,
-9003000.air,Single,9003000,9003094,proximity,0.0,false,true,
+9001000.air,Single,9001000,9001094,proximity,0.0,false,true
+9003000.air,Single,9003000,9003094,proximity,0.0,false,true
 
